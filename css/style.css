@@ -1,0 +1,66 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 10;
+    padding: 15;
+    background-image:linear-gradient(to right, black, purple)
+    
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.profissoes{
+    margin: 20px;
+    background-color: rgb(164, 0, 240);
+    border: 10px double rgb(65, 2, 69);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(158, 18, 245);
+}
+
+h1{
+    text-align: center;
+
+}
+
+.analista{
+   
+    margin: 20px;
+    background-color: rgb(164, 0, 240);
+    border: 10px double rgb(65, 2, 69);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(158, 18, 245);
+    font-size: 18px;
+}
+
+.nocode{
+   
+    margin: 20px;
+    background-color: rgb(164, 0, 240);
+    border: 10px double rgb(65, 2, 69);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(158, 18, 245);
+    font-size: 18px;
+}
+
+.programador{
+   
+    margin: 20px;
+    background-color: rgb(164, 0, 240);
+    border: 10px double rgb(65, 2, 69);
+    border-radius: 10px; /*pra arrendondar a borda */
+    padding: 20px; /*Espaço interno */
+    box-shadow: 0px 0px 10px rgb(158, 18, 245);
+    font-size: 18px;
+}
+
+
+
+
